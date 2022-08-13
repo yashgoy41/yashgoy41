@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yashgoy41
-- 👀 I’m interested in Computer Science and developing software solutions to improve lives. 
+- 👀 I’m interested in Computer Science and developing software solutions.
 - 🌱 I’m currently learning how to develop a website. 
 - 💞️ I’m looking to collaborate on any projects that push me and help me to learn something new. 
 - 📫 How to reach me: yashgoy41@gmail.com
