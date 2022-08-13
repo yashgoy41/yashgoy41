@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashgoy41
+- 👋 Hi, I’m Yash.
 - 👀 I’m interested in Computer Science and developing software solutions.
 - 🌱 I’m currently learning how to develop a website. 
 - 💞️ I’m looking to collaborate on any projects that push me and help me to learn something new. 
