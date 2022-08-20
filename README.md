@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Yash.
-- 👀 I’m interested in Computer Science and developing software solutions.
-- 🌱 I’m currently learning how to develop a website. 
-- 💞️ I’m looking to collaborate on any projects that push me and help me to learn something new. 
-- 📫 How to reach me: yashgoy41@gmail.com
+- 👀 I’m currently pursuing a Computer Science Major at the University of California, Los Angeles. 
+- 🌱 I have a deep interest in software development and AI/ML applications. 
+- 💞️ I’m looking to collaborate on any projects that push my boundaries and create learning opportunities. 
+- 📫 How to reach me: yashgoyal@ucla.edu
 
 <!---
 yashgoy41/yashgoy41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
